@@ -1,0 +1,9 @@
+AGE,JOB,MARTIAL,EDUCATION,DEFAULT,BALANCE,HOUSING,LOAN,CONTACT,DAY,MONTH,DURATION,CAMPAIGN,PDAYS,PREVIOUS,POUTCOME,Y
+30,admin.,married,tertiary,no,1500,yes,no,cellular,5,may,100,1,999,0,unknown,no
+33,technician,single,secondary,no,1200,no,no,cellular,6,may,200,1,999,0,unknown,yes
+35,blue-collar,married,primary,yes,800,yes,yes,telephone,7,jun,150,2,999,0,unknown,no
+40,admin.,divorced,secondary,no,300,yes,no,cellular,8,jul,180,1,999,0,unknown,no
+28,student,single,tertiary,no,1000,no,no,cellular,5,aug,90,3,5,1,success,yes
+50,retired,married,primary,no,700,yes,no,telephone,9,may,120,1,999,0,unknown,no
+60,retired,divorced,secondary,yes,50,no,yes,telephone,10,nov,300,2,999,0,unknown,no
+45,services,married,secondary,no,900,yes,no,cellular,6,jun,130,1,10,2,success,yes
